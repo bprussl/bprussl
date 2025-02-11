@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bprussl
+- 👋 Hi, I’m Braden (@bprussl)
 - 👀 I’m interested in working on digital humanities projects and looking to enhance my coding skills
 - 🌱 I’m currently learning and integrating TEI into my dissertation about queer Jewishness in Germany literary products
-- 💞️ I’m looking to collaborate on digital humaniites work in German Studies, Jewish Studies and Queer Studies
+- 💞️ I’m looking to collaborate on digital humanities work in German Studies, Jewish Studies and Queer Studies
 - 📫 How to reach me contact via email bradenrussell2@gmail.com
 
 <!---
